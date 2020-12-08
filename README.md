@@ -12,13 +12,14 @@
 - Changed the sector constraints of the portfolio, by restricting the weights on tech stocks. This provided better diversification but resulted in a reduction in sharpe ratio. 
 
 ## Conclusion: 
-- We compared the performance of various optimization methods like the traditional mean variance optimization, sharpe ratio optimization and also explored different ways to further enhance the model performance.
-- Based on the current analysis, we conclude that the sharpe ratio maximization portfolio with short selling allowed is the most optimal portfolio with sharpe ~2.0 and returns ~87%.
 
 ![](/Image/port_stats.png)
 
+- We compared the performance of various optimization methods like the traditional mean variance optimization, sharpe ratio optimization and also explored different ways to further enhance the model performance.
+- Based on the current analysis, we conclude that the sharpe ratio maximization portfolio with short selling allowed is the most optimal portfolio with sharpe ~2.0 and returns ~87%.
 
-
+#    
+# 
 
 
 # [Project 2: Web Scraping Bitcoin.com using Selenium and Python](https://github.com/Shreyav29/WebScrapingBitcoin.com)
