@@ -18,6 +18,9 @@
 ![](/Image/port_stats.png)
 
 
+
+
+
 # [Project 2: Web Scraping Bitcoin.com using Selenium and Python](https://github.com/Shreyav29/WebScrapingBitcoin.com)
 
 ## Objective:
