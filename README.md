@@ -1,3 +1,5 @@
+## Note: Click [here](https://github.com/Shreyav29) to go to my Github Repository
+
 ## [Project 1: Asset Allocation using Convex Portfolio Optimization](https://github.com/Shreyav29/Portfolio_Optimization)
 ### Objective: 
 - In this project we study and compare the asset allocation methodology followed through mean variance portfolio optimization (MVO) and Sharpe Ratio optimization by using the PyPortfolioOpt library in python 
