@@ -28,3 +28,7 @@
 
 ### Scraped Features: 
 Bitcoin Core (BTC) Price, Market Capitalization, Price Volatility, Daily Transactions,Transaction Value,Total Transactions,Fee Percentage ,Transaction Amount,Hash Rate,Transaction Fees,Miner Revenue,Inflation Rate,Transaction Size,Output Volume,Velocity of Money
+
+## [Project 3: SPX_Futures_Roll_Strategy](https://github.com/Shreyav29/SPX_Futures_Roll_Strategy)
+### Objective: 
+- The Project aims to design the optimal monthly roll strategy for SPX futures such that we have minimum roll cost.
