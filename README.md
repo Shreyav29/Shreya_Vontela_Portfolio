@@ -16,3 +16,12 @@
 - Based on the current analysis, we conclude that the sharpe ratio maximization portfolio with short selling allowed is the most optimal portfolio with sharpe ~2.0 and returns ~87%.
 
 ![](/Image/port_stats.png)
+
+
+# [Project 2: Web Scraping Bitcoin.com using Selenium and Python](https://github.com/Shreyav29/WebScrapingBitcoin.com)
+
+## Objective:
+- In this project I am trying to scrape the Bitcoin.com website and downlaod various paramters belonging to the Bitcoin cryptocurrency. I am going to use this data in a bitcoin price prediction project later. 
+
+## Scraped Features: 
+Bitcoin Core (BTC) Price, Market Capitalization, Price Volatility, Daily Transactions,Transaction Value,Total Transactions,Fee Percentage ,Transaction Amount,Hash Rate,Transaction Fees,Miner Revenue,Inflation Rate,Transaction Size,Output Volume,Velocity of Money
