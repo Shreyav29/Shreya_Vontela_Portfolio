@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# [Project 1 : Asset Allocation using Convex Portfolio Optimization](https://github.com/Shreyav29/Portfolio_Optimization)
+## Objective : 
+- In this project we study and compare the asset allocation methodology followed through mean variance portfolio optimization(MVO) and Sharpe Ratio optimization by using the PyPortfolioOpt library in python 
 
-You can use the [editor on GitHub](https://github.com/Shreyav29/Shreya_Vontela_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Methodology : 
+- Performed stock selection by chosing eight stocks which span across five industries and have a dispersed range of correlations. Downloaded the stock prices from yfinance library in python. 
+- Analysed the stock prices , returns and correlations. 
+- Formulated the objective and constraints for mean variance optimiation and solved it using PyPortfolioOpt. Analysed the bias in the results towards high return stocks. 
+- Performed sharpe ratio optimization by finding the optimal risk aversion factor in order to get the maximum sharpe portfolio weights. 
+- Then validated the same results as above by using PyPortfolioOpt's max_sharpe function 
+- Changed the constrains of the portfolio, to allow short selling. Optimized it to realise better sharpe ratio portfolio. 
+- Changed the sector constraints of the portfolio , by restricting the weights on tech stocks. This provided better diversification but resulted in a reduction in sharpe ratio. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shreyav29/Shreya_Vontela_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Conclusion : 
+- We compared the performance of various optimization methods like the traditional mean variance optimization, sharpe ratio optimization and also explored different ways to further enhance the model performance.
+- Based on the current analysis, we conclude that the sharpe ratio maximization portfolio with short selling allowed is the most optimal portfolio with sharpe ~2.0 and returns ~87%. 
