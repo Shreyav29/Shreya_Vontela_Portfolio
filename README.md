@@ -15,4 +15,4 @@
 - We compared the performance of various optimization methods like the traditional mean variance optimization, sharpe ratio optimization and also explored different ways to further enhance the model performance.
 - Based on the current analysis, we conclude that the sharpe ratio maximization portfolio with short selling allowed is the most optimal portfolio with sharpe ~2.0 and returns ~87%.
 
-![](https://github.com/Shreyav29/Shreya_Vontela_Portfolio/blob/main/Image/port_stats.png)
+![](/Image/port_stats.png)
