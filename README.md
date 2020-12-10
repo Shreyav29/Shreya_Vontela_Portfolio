@@ -32,3 +32,16 @@ Bitcoin Core (BTC) Price, Market Capitalization, Price Volatility, Daily Transac
 ## [Project 3: Designing SPX Futures Roll Strategy](https://github.com/Shreyav29/SPX_Futures_Roll_Strategy)
 ### Objective: 
 - The Project aims to design the optimal monthly roll strategy for SPX futures such that we have minimum roll cost.
+
+## Project 4: Educational Implementations: 
+### [Sub Project 4.1: Linear_Regression_from_scratch](https://github.com/Shreyav29/Linear_Regression_from_scratch)
+#### Objective: 
+- The objective is to better understand the maths behind OLS and implement it in the Gradient Descent approach by using just numpy.
+### [Sub Project 4.2: LogisticRegressionFromScratch](https://github.com/Shreyav29/LogisticRegressionFromScratch)
+#### Objective: 
+- The objective is to better understand the maths behind Logistic regression and implement it in the Gradient Descent approach by using just numpy.
+### [Sub Project 4.3: NeuralNetworkFromScratch](https://github.com/Shreyav29/NeuralNetworkFromScratch)
+#### Objective: 
+- In this project I am implementing a simple one two Neural Network with forward and backward propagation steps by using just numpy library.
+
+
