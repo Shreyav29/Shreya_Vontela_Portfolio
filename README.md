@@ -33,7 +33,7 @@ Bitcoin Core (BTC) Price, Market Capitalization, Price Volatility, Daily Transac
 ### Objective: 
 - The Project aims to design the optimal monthly roll strategy for SPX futures such that we have minimum roll cost.
 
-## Project 4: Educational Implementations: 
+## Project 4: Implementing Machine Learning algorithms from scratch:: 
 ### [Sub Project 4.1: Linear_Regression_from_scratch](https://github.com/Shreyav29/Linear_Regression_from_scratch)
 #### Objective: 
 - The objective is to better understand the maths behind OLS and implement it in the Gradient Descent approach by using just numpy.
