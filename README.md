@@ -1,4 +1,6 @@
-#### Note: Click [here](https://github.com/Shreyav29) to go to my Github Repository
+### Note: Click [here](https://github.com/Shreyav29) to go to my Github Repository
+### Note: Click [here](https://sites.google.com/berkeley.edu/shreya-vontela/home) to go to my Personal Website
+
 
 ## [Project 1: Asset Allocation using Convex Portfolio Optimization](https://github.com/Shreyav29/Portfolio_Optimization)
 ### Objective: 
@@ -40,8 +42,7 @@ Bitcoin Core (BTC) Price, Market Capitalization, Price Volatility, Daily Transac
 ### [Sub Project 4.2: LogisticRegressionFromScratch](https://github.com/Shreyav29/LogisticRegressionFromScratch)
 #### Objective: 
 - The objective is to better understand the maths behind Logistic regression and implement it in the Gradient Descent approach by using just numpy.
-### [Sub Project 4.3: NeuralNetworkFromScratch](https://github.com/Shreyav29/NeuralNetworkFromScratch)
+### [Sub Project 4.3: KNN from scratch](https://github.com/Shreyav29/KNNRegression)
 #### Objective: 
-- In this project I am implementing a simple one two Neural Network with forward and backward propagation steps by using just numpy library.
-
+- In this project we will be solving KNN Regression problem from scratch. We will be implementing the KNN problem in the naive method using a for loop and also in a vectorised approach using numpy broadcasting. We will also plot the root mean squared error for various K values and chose the optimal number of nearest neighbours.
 
