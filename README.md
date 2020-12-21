@@ -33,9 +33,6 @@
 #### Objective of sub project:
 - In this project I am trying to scrape the Bitcoin.com website and downlaod various paramters belonging to the Bitcoin cryptocurrency. I am going to use this data in a bitcoin price prediction project later. 
 
-#### Scraped Features: 
-- Bitcoin Core (BTC) Price, Market Capitalization, Price Volatility, Daily Transactions,Transaction Value,Total Transactions,Fee Percentage ,Transaction Amount,Hash Rate,Transaction Fees,Miner Revenue,Inflation Rate,Transaction Size,Output Volume,Velocity of Money
-
 ### Model Development 
 #### Model Setup
 - As this is the sequence model. I assumed the past 28 days of data would be affecting next 7 days of data. So the input for the model will be 28 days data and the output would be the next 7 days.
