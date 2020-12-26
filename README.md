@@ -51,7 +51,6 @@
 - Finally to find the accuracy of our model, considering the fact that bitcoin is very volatile, I took a range of 1% around the bitcoin price and saw in how many days our prediction was inside that range. This turned out to be around 90% accurate 
 
 
-
 ## [Project 3: Designing SPX Futures Roll Strategy](https://github.com/Shreyav29/SPX_Futures_Roll_Strategy)
 ### Objective: 
 - The Project aims to design the optimal monthly roll strategy for SPX futures such that we have minimum roll cost.
